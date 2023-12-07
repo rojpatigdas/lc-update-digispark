@@ -1,4 +1,4 @@
-//This DigiSpark script opens up Rick Astley's - Never Gonna Give You Up and also a fake Windows update screen and then maximizes it using F11
+//This DigiSpark script opens up Lethal Company's Ice Cream theme song and also a fake Windows update screen and then maximizes it using F11
 #include "DigiKeyboard.h"
 void setup() {
   //empty
